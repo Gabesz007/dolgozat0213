@@ -1,0 +1,296 @@
+{
+  "foglalasok": [
+    {
+      "id": "1",
+      "cim": "Székesfehérvár, Teve u. 64.",
+      "datum": "2020-07-24",
+      "fo": "6",
+      "iranyitoszam": "8000",
+      "nev": "Barna Miklós"
+    },
+    {
+      "id": "2",
+      "cim": "Zalaegerszeg, Hold u. 11.",
+      "datum": "2020-07-31",
+      "fo": "15",
+      "iranyitoszam": "8900",
+      "nev": "Kis Zoltánné"
+    },
+    {
+      "id": "3",
+      "cim": "Nyíregyháza, Lant u. 73.",
+      "datum": "2020-08-08",
+      "fo": "6",
+      "iranyitoszam": "4400",
+      "nev": "Német Mária"
+    },
+    {
+      "id": "4",
+      "cim": "Szeged, Jókai út 71.",
+      "datum": "2020-09-12",
+      "fo": "7",
+      "iranyitoszam": "6720",
+      "nev": "Nagy Istvánné"
+    },
+    {
+      "id": "5",
+      "cim": "Budapest, Pipacs u. 3.",
+      "datum": "2020-09-26",
+      "fo": "8",
+      "iranyitoszam": "1114",
+      "nev": "Nagy Béla"
+    },
+    {
+      "id": "6",
+      "cim": "Eger, Liliom u. 12.",
+      "datum": "2021-01-01",
+      "fo": "3",
+      "iranyitoszam": "3300",
+      "nev": "Kis Piroska"
+    },
+    {
+      "id": "7",
+      "cim": "Zalaegerszeg, Hold u. 11.",
+      "datum": "2021-02-13",
+      "fo": "10",
+      "iranyitoszam": "8900",
+      "nev": "Kis Zoltánné"
+    },
+    {
+      "id": "8",
+      "cim": "Szeged, Jókai út 71.",
+      "datum": "2021-02-14",
+      "fo": "4",
+      "iranyitoszam": "6720",
+      "nev": "Nagy Istvánné"
+    },
+    {
+      "id": "9",
+      "cim": "Szeged, Jókai út 71.",
+      "datum": "2021-02-24",
+      "fo": "8",
+      "iranyitoszam": "6720",
+      "nev": "Nagy Istvánné"
+    },
+    {
+      "id": "10",
+      "cim": "Székesfehérvár, Teve u. 64.",
+      "datum": "2021-02-25",
+      "fo": "11",
+      "iranyitoszam": "8000",
+      "nev": "Barna Miklós"
+    },
+    {
+      "id": "11",
+      "cim": "Nyíregyháza, Lant u. 73.",
+      "datum": "2021-03-13",
+      "fo": "2",
+      "iranyitoszam": "4400",
+      "nev": "Német Mária"
+    },
+    {
+      "id": "12",
+      "cim": "Miskolc, Petőfi út 46.",
+      "datum": "2021-04-28",
+      "fo": "3",
+      "iranyitoszam": "3530",
+      "nev": "Kovács János"
+    },
+    {
+      "id": "13",
+      "cim": "Székesfehérvár, Teve u. 64.",
+      "datum": "2021-06-07",
+      "fo": "14",
+      "iranyitoszam": "8000",
+      "nev": "Barna Miklós"
+    },
+    {
+      "id": "14",
+      "cim": "Nyíregyháza, Lant u. 73.",
+      "datum": "2021-06-13",
+      "fo": "13",
+      "iranyitoszam": "4400",
+      "nev": "Német Mária"
+    },
+    {
+      "id": "15",
+      "cim": "Győr, Fülemüle u. 89.",
+      "datum": "2021-07-23",
+      "fo": "11",
+      "iranyitoszam": "9025",
+      "nev": "Molnár József"
+    },
+    {
+      "id": "16",
+      "cim": "Eger, Liliom u. 12.",
+      "datum": "2021-08-25",
+      "fo": "8",
+      "iranyitoszam": "3300",
+      "nev": "Kis Piroska"
+    },
+    {
+      "id": "17",
+      "cim": "Miskolc, Petőfi út 46.",
+      "datum": "2021-09-09",
+      "fo": "4",
+      "iranyitoszam": "3530",
+      "nev": "Kovács János"
+    },
+    {
+      "id": "18",
+      "cim": "Eger, Liliom u. 12.",
+      "datum": "2021-11-02",
+      "fo": "3",
+      "iranyitoszam": "3300",
+      "nev": "Kis Piroska"
+    },
+    {
+      "id": "19",
+      "cim": "Szeged, Jókai út 71.",
+      "datum": "2022-02-26",
+      "fo": "12",
+      "iranyitoszam": "6720",
+      "nev": "Nagy Istvánné"
+    },
+    {
+      "id": "20",
+      "cim": "Debrecen, Kossuth u. 13.",
+      "datum": "2022-02-28",
+      "fo": "9",
+      "iranyitoszam": "4030",
+      "nev": "Fekete Péter"
+    },
+    {
+      "id": "21",
+      "cim": "Miskolc, Petőfi út 46.",
+      "datum": "2022-03-14",
+      "fo": "4",
+      "iranyitoszam": "3530",
+      "nev": "Kovács János"
+    },
+    {
+      "id": "22",
+      "cim": "Nyíregyháza, Lant u. 73.",
+      "datum": "2022-04-16",
+      "fo": "15",
+      "iranyitoszam": "4400",
+      "nev": "Német Mária"
+    },
+    {
+      "id": "23",
+      "cim": "Budapest, Pipacs u. 3.",
+      "datum": "2022-06-04",
+      "fo": "11",
+      "iranyitoszam": "1114",
+      "nev": "Nagy Béla"
+    },
+    {
+      "id": "24",
+      "cim": "Pécs, Mézeskalács út 22.",
+      "datum": "2022-06-16",
+      "fo": "3",
+      "iranyitoszam": "7630",
+      "nev": "Major Anna"
+    },
+    {
+      "id": "25",
+      "cim": "Győr, Fülemüle u. 89.",
+      "datum": "2022-07-24",
+      "fo": "4",
+      "iranyitoszam": "9025",
+      "nev": "Molnár József"
+    },
+    {
+      "id": "26",
+      "cim": "Székesfehérvár, Teve u. 64.",
+      "datum": "2022-09-07",
+      "fo": "4",
+      "iranyitoszam": "8000",
+      "nev": "Barna Miklós"
+    },
+    {
+      "id": "27",
+      "cim": "Győr, Fülemüle u. 89.",
+      "datum": "2022-10-21",
+      "fo": "8",
+      "iranyitoszam": "9025",
+      "nev": "Molnár József"
+    },
+    {
+      "id": "28",
+      "cim": "Nyíregyháza, Lant u. 73.",
+      "datum": "2022-11-22",
+      "fo": "8",
+      "iranyitoszam": "4400",
+      "nev": "Német Mária"
+    },
+    {
+      "id": "29",
+      "cim": "Pécs, Mézeskalács út 22.",
+      "datum": "2022-11-25",
+      "fo": "3",
+      "iranyitoszam": "7630",
+      "nev": "Major Anna"
+    },
+    {
+      "id": "30",
+      "cim": "Nyíregyháza, Lant u. 73.",
+      "datum": "2022-11-30",
+      "fo": "10",
+      "iranyitoszam": "4400",
+      "nev": "Német Mária"
+    },
+    {
+      "id": "31",
+      "cim": "Pécs, Mézeskalács út 22.",
+      "datum": "2022-12-25",
+      "fo": "4",
+      "iranyitoszam": "7630",
+      "nev": "Major Anna"
+    },
+    {
+      "id": "32",
+      "cim": "Debrecen, Kossuth u. 13.",
+      "datum": "2023-02-23",
+      "fo": "16",
+      "iranyitoszam": "4030",
+      "nev": "Fekete Péter"
+    },
+    {
+      "id": "33",
+      "cim": "Debrecen, Kossuth u. 13.",
+      "datum": "2023-02-23",
+      "fo": "6",
+      "iranyitoszam": "4030",
+      "nev": "Fekete Péter"
+    },
+    {
+      "id": "34",
+      "cim": "Pécs, Mézeskalács út 22.",
+      "datum": "2023-02-26",
+      "fo": "11",
+      "iranyitoszam": "7630",
+      "nev": "Major Anna"
+    },
+    {
+      "id": "35",
+      "cim": "Pécs, Mézeskalács út 22.",
+      "datum": "2023-04-16",
+      "fo": "9",
+      "iranyitoszam": "7630",
+      "nev": "Akármi Sándor Péter"
+    },
+    {
+      "id": "_6GQE7j"
+    },
+    {
+      "id": "MysQOqx"
+    },
+    {
+      "id": "ospFOqI"
+    },
+    {
+      "id": "9n3IRml"
+    }
+  ]
+}

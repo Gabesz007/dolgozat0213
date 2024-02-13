@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Szabadulószoba - Dolgozat</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Zombie Land Szabadulószoba</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Foglalások listázása</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="ujFoglalas.html">Új foglalás felvétele</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="container mt-5">
+        <img src="zombi2.jpg" class="img-fluid" alt="Szabadulószoba">
+      </div>
+      <div class="container mt-5">
+        <h2>Foglalások</h2>
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Dátum</th>
+              <th scope="col">Név</th>
+              <th scope="col">Fő</th>
+              <th scope="col">Helyszín</th>
+              <th scope="col">Irányítószám</th>
+            </tr>
+          </thead>
+          <tbody id="foglalasokTable">
+          </tbody>
+        </table>
+      </div>
+  <script src="script.js"></script>
+</body>
+</html>
